@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "QuickPickDriver",
+    "slug": "QuickPickDriver",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "QuickPickDriver"
+}
