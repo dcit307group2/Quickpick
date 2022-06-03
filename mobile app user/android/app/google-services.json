@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384219604746",
+    "project_id": "quickpick-auth",
+    "storage_bucket": "quickpick-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384219604746:android:2c0ab1512f93d5ac523cf3",
+        "android_client_info": {
+          "package_name": "com.quickpick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384219604746-keioblksafk5ouav3br9c8sh77a0orh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickpick",
+            "certificate_hash": "ec017d958588b52692e4e5997dc34b2ac42a27d7"
+          }
+        },
+        {
+          "client_id": "384219604746-0gonlp8aort5hs7desqqjm2bbbmslc8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqNqexFgJVpV-SKfXedAZZ1NU-gheE8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384219604746-0gonlp8aort5hs7desqqjm2bbbmslc8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
